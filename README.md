@@ -18,7 +18,7 @@ Chasse aux monstres
 
 ├── lib 
            
-           	└── monster.rb
+           	└── monstre.rb
 	 
 	   
 ├── app.rb

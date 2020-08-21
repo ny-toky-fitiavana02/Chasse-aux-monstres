@@ -52,6 +52,3 @@ $ ruby app.rb
 
 ## Auteur :
 Ce projet a été réalisé par RIANJHARINELINA Ny Toky Fitiavana https://github.com/ny-toky-fitiavana02
-         # Chasse-aux-monstres
-# Chasse-aux-monstres
-# Chasse-aux-monstres
